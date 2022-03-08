@@ -1,12 +1,5 @@
 name: workshops
 channels:
-    - bioconda
     - conda-forge
-    - defaults
 dependencies:
-  - python=3.6
-  - numpy
-  - matplotlib
-  - pandas
   - scikit-bio
-  - seaborn
