@@ -3,3 +3,10 @@ channels:
     - conda-forge
 dependencies:
   - scikit-bio
+  - collections
+  - numpy
+  - pandas
+  - math
+  - itertools
+  - seaborn
+  - matplotlib
