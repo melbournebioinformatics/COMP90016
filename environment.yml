@@ -10,3 +10,7 @@ dependencies:
   - matplotlib
   - fastqc
   - snippy
+  - samtools
+  - iqtree
+  - prokka
+  - mlst
