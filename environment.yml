@@ -4,6 +4,7 @@ channels:
     - bioconda
 dependencies:
   - scikit-bio
+  - pysam
   - numpy
   - pandas
   - seaborn
@@ -14,3 +15,5 @@ dependencies:
   - iqtree
   - prokka
   - mlst
+  - blast
+  - bwa
