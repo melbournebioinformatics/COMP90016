@@ -12,7 +12,7 @@ dependencies:
   - fastqc
   - snippy
   - samtools
-  - iqtree
+  - iqtree=2.0.3
   - prokka
   - mlst
   - blast
