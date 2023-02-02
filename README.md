@@ -1,4 +1,4 @@
-# COMP90016
+# Computational Genomics
 Material assoicated with the subject Computational Genomics (COMP90016).
 
 To use the binder link below, upload the required course files that can be found on the LMS. The necessary tools are available inside the binder environment (see environment.yml).
