@@ -18,3 +18,8 @@ dependencies:
   - blast
   - bwa
   - snp-dists
+  - bakta
+  - util-linux
+  - scanpy
+  - python-igraph
+  - leidenalg
