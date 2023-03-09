@@ -22,3 +22,4 @@ dependencies:
   - scanpy
   - python-igraph
   - leidenalg
+  - biopython
