@@ -3,24 +3,25 @@ channels:
     - conda-forge
     - bioconda
 dependencies:
-  - scikit-bio
-  - pysam
-  - numpy
-  - pandas
-  - seaborn
-  - matplotlib
-  - fastqc
-  - fastqe
-  - snippy
-  - samtools
-  - iqtree
-  - prokka
-  - mlst
+  - biopython
   - blast
   - bwa
-  - snp-dists
-  - util-linux
-  - scanpy
-  - python-igraph
+  - fastqc
+  - fastqe
+  - iqtree
   - leidenalg
-  - biopython
+  - matplotlib
+  - mlst
+  - numpy
+  - pandas
+  - prokka
+  - pysam
+  - python-igraph
+  - samtools
+  - scanpy
+  - scikit-bio
+  - seaborn
+  - snippy
+  - snp-dists
+  - snpeff
+  - util-linux
