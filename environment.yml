@@ -10,16 +10,17 @@ dependencies:
   - seaborn
   - matplotlib
   - fastqc
+  - fastqe
   - snippy
   - samtools
-  - iqtree=2.1.2
+  - iqtree
   - prokka
   - mlst
   - blast
   - bwa
   - snp-dists
-  - bakta
   - util-linux
   - scanpy
   - python-igraph
   - leidenalg
+  - biopython
