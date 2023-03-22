@@ -23,4 +23,3 @@ dependencies:
   - seaborn
   - snippy
   - snp-dists
-  - util-linux
