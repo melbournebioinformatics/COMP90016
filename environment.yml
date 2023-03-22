@@ -23,4 +23,4 @@ dependencies:
   - seaborn
   - snippy
   - snp-dists
-  - snpeff
+  - snpeff=4.3
