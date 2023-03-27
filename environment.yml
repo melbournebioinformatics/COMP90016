@@ -23,5 +23,4 @@ dependencies:
   - seaborn
   - snippy
   - snp-dists
-  - snpeff
-  - util-linux
+  - snpeff=4.3
