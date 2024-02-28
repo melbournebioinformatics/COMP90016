@@ -12,3 +12,5 @@ dependencies:
     - numpy
     - pandas
     - matplotlib
+    - jupyterlab
+    - notebook
