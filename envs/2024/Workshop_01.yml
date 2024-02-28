@@ -1,0 +1,9 @@
+name: CG1
+channels:
+    - conda-forge
+    - bioconda
+dependencies:
+  - python=3.11
+  - conda-forge::biopython=>1.83
+ #- pip:
+ #  - packagefrompip

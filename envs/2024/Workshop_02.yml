@@ -1,0 +1,14 @@
+name: CG2
+channels:
+    - conda-forge
+    - bioconda
+dependencies:
+  - python=3.11
+  - conda-forge::biopython=>1.83
+  - bioconda::fastqe
+  - bioconda::fastqc
+  - pip
+  - pip:
+    - numpy
+    - pandas
+    - matplotlib
