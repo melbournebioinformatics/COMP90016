@@ -1,0 +1,13 @@
+name: CG4
+channels:
+    - conda-forge
+    - bioconda
+dependencies:
+  - python==3.10
+  - bioconda::samtools
+  - bioconda::snpeff==4.3
+  - bioconda::snippy
+  - bioconda::pysam
+  - pip
+  - pip:
+    - jupyterlab
