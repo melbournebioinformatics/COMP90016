@@ -8,19 +8,19 @@ dependencies:
 #  - bwa
 #  - fastqc
 #  - fastqe
-#  - iqtree
+  - iqtree
 #  - leidenalg
   - matplotlib
-#  - mlst
+  - mlst
   - numpy
   - pandas
 #  - prokka
   - pysam
-#  - python-igraph
+  - python-igraph
   - bioconda::samtools>=1.7
 #  - scanpy
 #  - scikit-bio
   - seaborn
-  - snippy
-#  - snp-dists
+#  - snippy
+  - snp-dists
   - bioconda::snpeff=4.3
