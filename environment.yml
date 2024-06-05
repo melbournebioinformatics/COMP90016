@@ -4,21 +4,21 @@ channels:
     - bioconda
 dependencies:
    - biopython
-#  - blast
+   - blast
 #  - bwa
 #  - fastqc
 #  - fastqe
 #  - iqtree
-   - leidenalg
+#  - leidenalg
    - matplotlib
 #  - mlst
    - numpy
    - pandas
 #  - prokka
-#  - pysam
+   - pysam
 #  - python-igraph
-#  - bioconda::samtools>=1.7
-   - scanpy
+   - bioconda::samtools>=1.7
+#  - scanpy
    - seaborn
 #  - snippy
 #  - snp-dists
