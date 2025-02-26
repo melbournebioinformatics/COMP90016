@@ -1,23 +1,23 @@
 <style>
-.notebook-content h1 {
+h1 {
     border: 3.0px solid #333;
     padding: 12px 18px;
     background-color: #C8D3FD;
 }
 
-.notebook-content h2 {
+h2 {
     padding: 12px 18px;
     background-color: #C8D3FD;
 }
 
-.notebook-content .question {
+.question {
     color: rgb(0, 96, 100);
     background: rgb(178, 235, 242);
     border: solid 1px rgb(77, 208, 225);
     padding: 10px;
 }
 
-.notebook-content .info {
+.info {
     color: rgb(27, 94, 32);
     background: rgb(200, 230, 201);
     border: solid 1px rgb(129, 199, 132);
