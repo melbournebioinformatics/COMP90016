@@ -2,11 +2,13 @@
     border: 3.0px solid #333;
     padding: 12px 18px;
     background-color: #C8D3FD;
+    color: #333
 }
 
 h2 {
     padding: 12px 18px;
     background-color: #C8D3FD;
+    color: #333
 }
 
 .question {
