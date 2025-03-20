@@ -5,4 +5,4 @@ To use the binder link below, upload the required course files that can be found
 
 Be patient! Launching the binder will take a few minutes.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melbournebioinformatics/COMP90016/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melbournebioinformatics/COMP90016/2025)
