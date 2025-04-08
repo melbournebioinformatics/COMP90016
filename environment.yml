@@ -18,6 +18,7 @@ dependencies:
 #  - python-igraph
 #  - bioconda::samtools>=1.7
    - seaborn
+   - fastcluster
 #  - snippy
    - snp-dists
 #  - bioconda::snpeff=4.3
