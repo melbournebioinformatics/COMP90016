@@ -8,7 +8,7 @@ dependencies:
    - bwa
    - fastqc
    - fastqe
-#  - iqtree
+   - iqtree
    - matplotlib
 #  - mlst
    - numpy
@@ -18,6 +18,6 @@ dependencies:
 #  - python-igraph
 #  - bioconda::samtools>=1.7
    - seaborn
-   - snippy
-#  - snp-dists
+#  - snippy
+   - snp-dists
 #  - bioconda::snpeff=4.3
