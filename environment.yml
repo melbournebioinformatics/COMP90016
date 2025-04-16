@@ -3,6 +3,7 @@ channels:
    - conda-forge
    - bioconda
 dependencies:
+   - python >=3.8,<3.13
    - biopython
    - blast
    - bwa
@@ -14,9 +15,9 @@ dependencies:
    - numpy
    - pandas
 #  - prokka
-#  - pysam
+   - pysam
 #  - python-igraph
-#  - bioconda::samtools>=1.7
+   - bioconda::samtools>=1.7
    - seaborn
    - fastcluster
 #  - snippy
