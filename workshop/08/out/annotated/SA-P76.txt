@@ -1,0 +1,7 @@
+organism: Staphylococcus aureus P76 
+contigs: 2
+bases: 2893234
+CDS: 2702
+rRNA: 19
+tRNA: 61
+tmRNA: 1
