@@ -10,14 +10,15 @@ dependencies:
    - fastqc
    - fastqe
    - iqtree
+   - itables
    - matplotlib
-#  - mlst
+   - mlst
    - numpy
    - pandas
-#  - prokka
+   - prokka
    - pysam
 #  - python-igraph
-   - bioconda::samtools>=1.7
+   - bioconda::samtools >=1.7
    - seaborn
    - fastcluster
 #  - snippy
