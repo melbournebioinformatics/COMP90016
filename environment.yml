@@ -16,9 +16,9 @@ dependencies:
    - mlst
    - numpy
    - pandas
-   #  perl-list-moreutils required for mlst on binder
-   - perl-list-moreutils
-   - prokka
+   #  perl-list-moreutils required for mlst on binder (maybe not necessary with prokka > 1.14)
+   # - perl-list-moreutils
+   - prokka >=1.14
    - pysam
 #  - python-igraph
    - bioconda::samtools >=1.7
