@@ -1,0 +1,12 @@
+##fileformat=VCFv4.2
+##fileDate=20250324
+##source=freeBayes v1.3.6
+##reference=reference/ref.fa
+##contig=<ID=Wildtype,length=197394>
+##phasing=none
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	snippy_output
+Wildtype	2	.	A	G	6.38321e-09	.	
+Wildtype	8	.	A	TT	673.635	.	
+Wildtype	10	.	T	C	673.635	.	
+Wildtype	23	.	T	G	673.635	.	
+Wildtype	15	.	T	A	673.635	.	
