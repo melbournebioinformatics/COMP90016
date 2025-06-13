@@ -4,7 +4,7 @@
 # Adapted for sequence: Seq('tatgctaaattagttcctattcttccattaa')
 ##sequence-region demo.1 1 31
 demo.1	Genbank	region	1	31	.	+	.	ID=demo.1:1..31;Name=ANONYMOUS;
-demo.1	Genbank	gene	2	15	.	+	.	ID=gene-CJE0001;Name=dnaA;
-demo.1	Genbank	CDS	2	15	.	+	0	ID=cds-AAW34498.1;Name=AAW34498.1;
-demo.1	Genbank	gene	22	30	.	-	.	ID=gene-CJE0002;Name=dnaN;
-demo.1	Genbank	CDS	22	30	.	-	0	ID=cds-AAW34499.1;Name=AAW34499.1;
+demo.1	Genbank	gene	2	16	.	+	.	ID=gene-CJE0001;Name=dnaA;
+demo.1	Genbank	CDS	2	16	.	+	0	ID=cds-AAW34498.1;Name=AAW34498.1;
+demo.1	Genbank	gene	19	30	.	-	.	ID=gene-CJE0002;Name=dnaN;
+demo.1	Genbank	CDS	19	30	.	-	0	ID=cds-AAW34499.1;Name=AAW34499.1;
