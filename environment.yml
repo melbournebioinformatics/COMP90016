@@ -24,7 +24,7 @@ dependencies:
    - bioconda::samtools >=1.7
    - seaborn
    - fastcluster
-#  - snippy
+   - freebayes
    - snp-dists
 #  - bioconda::snpeff=4.3
 
