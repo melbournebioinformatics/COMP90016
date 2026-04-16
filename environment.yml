@@ -10,7 +10,7 @@ dependencies:
    - bwa
    - fastqc
    - fastqe
-   - iqtree
+   - iqtree=2.4
    - itables
    - matplotlib
    - mlst
