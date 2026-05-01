@@ -13,11 +13,8 @@ dependencies:
    - iqtree=2.4
    - itables
    - matplotlib
-   - mlst
    - numpy
    - pandas
-   #  perl-list-moreutils required for mlst on binder (maybe not necessary with prokka > 1.14)
-   # - perl-list-moreutils
    - prokka >=1.14
    - pysam
 #  - python-igraph
