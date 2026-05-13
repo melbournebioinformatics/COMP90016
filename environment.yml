@@ -17,11 +17,9 @@ dependencies:
    - pandas
    - prokka >=1.14
    - pysam
-#  - python-igraph
    - bioconda::samtools >=1.7
    - seaborn
    - fastcluster
    - freebayes
    - snp-dists
-#  - bioconda::snpeff=4.3
-
+   - scipy
